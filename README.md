@@ -4,7 +4,7 @@ This dataset contains 9,994 rows and 16 columns. The columns are: Ship Mode, Ord
 # Problem Statement:
  Clean and analyse global mart sales data
 
-# Problem Objectives:
+# Problem Objective:
 The objective of this data analysis is to help Global Mart understand their data in order to achieve the following:
 - Find the top 10 highest revenue generating products
 - find top 5 highest selling products in each region
