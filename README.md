@@ -49,4 +49,7 @@ The objective of this data analysis is to help Global Mart understand their data
 - find the sub category that had highest grown by profit in 2023 compare to 2022?
   
 ## Insights:
+Click on this link to view the code
+https://github.com/myroyalgold/Global-Mart-SalesAnalysis/blob/main/Global_Mart%20Sales%20Analysis.ipynb
+
 
